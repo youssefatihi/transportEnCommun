@@ -1,0 +1,4 @@
+NombrePersonnesEntrees,NombrePersonnesSorties,NumeroArret
+[ nb_montee: 1, nb_sortis: 1, numero_arret: 1]
+[ nb_montee: 4, nb_sortis: 1, numero_arret: 4]
+[ nb_montee: 1, nb_sortis: 5, numero_arret: 1]
